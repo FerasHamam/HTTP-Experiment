@@ -14,7 +14,7 @@
 
 4. To load the image parts, I used the 'Fast 3G' connection option on Chrome browser developer tools.
 
-5. Both HTTP/1.1 & HTTP/2 servers use SSL to encrypt requests and responses
+5. Both HTTP/1.1 & HTTP/2 servers use SSL to encrypt requests and responses.
 
 
 <!-- GETTING STARTED -->
