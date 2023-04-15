@@ -1,7 +1,6 @@
 const http2 = require('http2');
 const path = require('path');
 const fs = require('fs');
-const mime = require('mime-types');
 
 
 const server = http2.createSecureServer({ key: fs.readFileSync('./server.key'), cert: fs.readFileSync('./server.crt') });
