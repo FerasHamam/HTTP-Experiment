@@ -18,10 +18,10 @@
 
 ### Installation
 
-1. Install Bootstrap 
+1. Install packages 
 
    ```sh
-   npm install bootstrap
+   npm install
    ```
 2. Run React Application
    ```sh
