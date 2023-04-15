@@ -4,7 +4,7 @@
   <h3 align="center">Image Viewer React Application</h3>
 </p>
 
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT -->
 ## About
 
 ### Built With

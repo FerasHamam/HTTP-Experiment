@@ -4,7 +4,7 @@
   <h3 align="center">NodeJS HTTP/2</h3>
 </p>
 
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT -->
 ## About
 
 ### Built With
