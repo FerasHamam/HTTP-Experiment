@@ -1,5 +1,6 @@
 {
-  "name": "image-assembler",
+  "name": "image-viewer",
+  "author": "Feras Hamam",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

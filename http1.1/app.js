@@ -1,7 +1,6 @@
 const https = require('https');
 const path = require('path');
 const fs = require('fs');
-const mime = require('mime-types');
 
 const server = https.createServer({key : fs.readFileSync('./server.key'), cert: fs.readFileSync('./server.crt')},(req, res) => {
     const fullPath = path.join(__dirname, '/public/images', req.url);
