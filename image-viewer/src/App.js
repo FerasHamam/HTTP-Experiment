@@ -2,7 +2,7 @@ import { useEffect } from "react";
 
 function App() {
   useEffect(() => {
-    document.title = "Image Assembler"
+    document.title = "Image Viewer"
   }, [])
   
   const http1Images = [];
